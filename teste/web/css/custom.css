@@ -1,0 +1,22 @@
+.img-fluid {
+    height: 300px;
+    width: 255px;
+}
+
+.img-cart {
+    max-height: 130px;
+}
+
+.left-box {
+    align-content: left;
+}
+
+.Sign-up div, .login div {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.Sign-up input[type=submit], .login input[type=submit] {
+    margin-left: 48%;
+    margin-top: 10px;
+}
